@@ -1,3 +1,6 @@
+Ceras - ceraeor
+EO-Reflection
+
 To install needed imports
 
 pip install -r requirements.txt
