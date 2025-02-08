@@ -1,0 +1,9 @@
+tkinter
+pywin32
+shutil
+json
+threading
+os
+cryptography
+pymem
+inputs
