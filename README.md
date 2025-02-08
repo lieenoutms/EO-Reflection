@@ -7,9 +7,10 @@ pip install -r requirements.txt
 
 open Main.py
 
-Run
+Hit Run
 Set player health level
-When GUI opens, Click load addres. bot will then search.
-Once address have loaded compare to current
+When GUI opens, Click load address. 
+bot will then search for current active addresses.
+Once address have loaded compare to current list.
 
 Hit start
