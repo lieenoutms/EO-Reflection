@@ -15,7 +15,7 @@ CONFIG_FILE = "config.json"
 class CTRLSenderApp:
     def __init__(self, master):
         self.master = master
-        master.title("EO Bot Controller")
+        master.title("Cera EO Bot")
         master.geometry("400x700")  # Adjusted for better spacing
 
         # --- Memory Addresses Section ---
